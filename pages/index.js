@@ -1,6 +1,6 @@
 import Navbar from "../components/Navbar"
 import Largeblog from "../components/largeblog"
-import Miniblog from "@/components/Miniblog"
+import Miniblog from "@/components/miniblog"
 import Footer from "../components/Footer"
 
 const Home = ({}) => {
