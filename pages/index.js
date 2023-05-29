@@ -18,7 +18,7 @@ const Home = ({}) => {
         <div className='bg-[url("/blog-cover.png")] bg-cover bg-no-repeat py-24 px-96 text-center md:px-6'>
           <div className="flex flex-col justify-center items-center px-20 md:px-2">
             <h1 className="text-4xl font-bold text-white my-2">
-              Inclusion, Innovation and Diversity 
+              OfInclusion, Innovation, and Diversity 
             </h1>
             <span className="text-white text-sm font-normal">
               A collection of scrolls about our people, capabilities,
