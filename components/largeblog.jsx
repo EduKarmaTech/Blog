@@ -3,7 +3,7 @@ import React from 'react'
 
 const largeblog = () => {
   return (
-    <div className='grid grid-cols-3 space-x-4'>
+    <div className='grid grid-cols-3 space-x-4 md:flex md:flex-col'>
       <div className='col-span-1'>
         <img src='/largeblog.png' alt='largeblog' />
       </div>
