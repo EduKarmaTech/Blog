@@ -2,9 +2,8 @@ import React from 'react'
 import { useRouter } from 'next/router'
 import {FiShare2} from 'react-icons/fi'
 import Link from 'next/link'
-
-import Navbar from "../components/Navbar"
-import Footer from "../components/Footer"
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
 
 const blogDetail = () => {
   const router = useRouter()
