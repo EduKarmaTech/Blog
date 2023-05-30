@@ -6,7 +6,7 @@ const Footer = () => {
         <div className='px-28 md:px-10'>
 
 
-            <div className='grid grid-cols-5 md:grid-cols-1'>
+            <div className='grid grid-cols-5 md:grid-cols-2'>
                 <div>
                     <h2 className='my-4 text-[#1F2937] font-medium text-md'>Company</h2>
                     <p className='text-[#6B7280] font-medium text-sm my-2'>About</p>
